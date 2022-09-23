@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++  -g   CMakeFiles/Project2.dir/main.cpp.o CMakeFiles/Project2.dir/dictionary.cpp.o CMakeFiles/Project2.dir/fraction.cc.o  -o Project2 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/u155/rwkramer/3700/Project2/dictionary.h
+cstdint
+-
+stdexcept
+-
+string
+-
+fraction.h
+/home/u155/rwkramer/3700/Project2/fraction.h
+
+/home/u155/rwkramer/3700/Project2/fraction.h
+iostream
+-
+cstdint
+-
+
+/home/u155/rwkramer/3700/Project2/main.cpp
+iostream
+-
+dictionary.h
+/home/u155/rwkramer/3700/Project2/dictionary.h
+

@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++  -g   CMakeFiles/dynamic.dir/main.cpp.o CMakeFiles/dynamic.dir/mrs.cpp.o CMakeFiles/dynamic.dir/sampler.cpp.o  -o dynamic 
